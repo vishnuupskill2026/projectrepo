@@ -25,11 +25,50 @@
         <div class="scroll-mark" aria-hidden="true"><span></span></div>
       </section>
       <section class="countdown-line reveal" aria-label="Countdown to the wedding"><span class="countdown-heading"><span class="eyebrow">Counting the moments</span><strong>Until forever</strong></span><span class="countdown" id="countdown"><span class="countdown-unit"><strong data-unit="days">00</strong><small>days</small></span><b>:</b><span class="countdown-unit"><strong data-unit="hours">00</strong><small>hours</small></span><b>:</b><span class="countdown-unit"><strong data-unit="minutes">00</strong><small>min</small></span><b>:</b><span class="countdown-unit"><strong data-unit="seconds">00</strong><small>sec</small></span></span></section>
-      <section class="events reveal" aria-label="Wedding events">
-        <article class="event event--haldi"><span class="event-number">01</span><span class="event-icon" aria-hidden="true">✦</span><p class="event-label">Haldi ceremony</p><h2>29.08.2026</h2><p class="event-date">Saturday</p><p class="event-time">10:00 - 11:30 AM</p></article>
-        <article class="event event--betrothal"><span class="event-number">02</span><span class="event-icon" aria-hidden="true">◇</span><p class="event-label">Betrothal</p><h2>29.08.2026</h2><p class="event-date">Saturday</p><p class="event-time">4:30 - 6:00 PM</p></article>
-        <article class="event event--reception"><span class="event-number">03</span><span class="event-icon" aria-hidden="true">◌</span><p class="event-label">Reception</p><h2>29.08.2026</h2><p class="event-date">Saturday</p><p class="event-time">6:00 PM onwards</p></article>
-        <article class="event event--wedding"><span class="event-number">04</span><span class="event-icon" aria-hidden="true">✧</span><p class="event-label">Wedding</p><h2>30.08.2026</h2><p class="event-date">Sunday</p><p class="event-time">8:00 - 9:00 AM</p></article>
+<section class="events reveal" aria-label="Wedding events">
+        <article class="event event--haldi">
+          <div class="event-content">
+            <span class="event-label">Haldi ceremony</span>
+            <h2>29.08.2026</h2>
+            <div class="event-details">
+              <span class="event-day">Saturday</span>
+              <span class="event-time">10:00 - 11:30 AM</span>
+            </div>
+          </div>
+        </article>
+
+        <article class="event event--betrothal">
+          <div class="event-content">
+            <span class="event-label">Betrothal</span>
+            <h2>29.08.2026</h2>
+            <div class="event-details">
+              <span class="event-day">Saturday</span>
+              <span class="event-time">4:30 - 6:00 PM</span>
+            </div>
+          </div>
+        </article>
+
+        <article class="event event--reception">
+          <div class="event-content">
+            <span class="event-label">Reception</span>
+            <h2>29.08.2026</h2>
+            <div class="event-details">
+              <span class="event-day">Saturday</span>
+              <span class="event-time">6:00 PM onwards</span>
+            </div>
+          </div>
+        </article>
+
+        <article class="event event--wedding">
+          <div class="event-content">
+            <span class="event-label">Wedding</span>
+            <h2>30.08.2026</h2>
+            <div class="event-details">
+              <span class="event-day">Sunday</span>
+              <span class="event-time">8:00 - 9:00 AM</span>
+            </div>
+          </div>
+        </article>
       </section>
       <section class="venue reveal" aria-labelledby="venue-title">
         <p class="eyebrow">The celebration will be held at</p>
